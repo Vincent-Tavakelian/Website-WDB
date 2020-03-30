@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+	<html>
+	<head>
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-150821894-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-150821894-1');
+</script>
+		<title>>World Direct Business</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<script src="https://kit.fontawesome.com/65af90560c.js" crossorigin="anonymous"></script>
+		<link href="https://fonts.googleapis.com/css?family=Indie+Flower&display=swap" rel="stylesheet">
+	</head>
+	<body>
+
+     <div class="banner">
+	  <div class="container">
+		<h1> World Direct Business</h1>
+		<h2>Factories from all over the world at your doorstep!</h2>
+
+		 </div>
+		 </div>
+
+
+		 <div class="container" >
+		 	<p align="justify">
+				" Specialist in textiles and personal protective equipment, WORLD DIRECT BUSINESS brings all the solutions to your purchasing and sourcing issues, but also international logistics.
+ "
+			</p>
+
+         	<h2>
+				<img class="avatar" src="images/Thierry.png" alt="Thierry Tavakelian">
+				Thierry Tavakelian, foundator of WDB
+				<a href="#ref7" class="btn"> Contact</a>
+	       	</h2>
+
+				<div class="card">
+					<img src="images/medical.jpeg" alt="Mobilier d'extérieur">
+					<h3> Personal protective equipment</h3>
+
+
+					<a href="#ref1" class="btn btn-default"> Basic</a>
+					<a href="#ref2" class="btn"> Standard</a>
+					<a href="#ref3" class="btn"> Advanced</a>
+
+					</div>
+        		</div>
+
+			</div>
+
+			<h4 id="ref1"> Basic </h4>
+
+
+			<div class="bleu">
+				<img src="images/0326 basic.png">
+				<div class="desc">
+					<h3> Visitor face mask / REF: IP-0326-V7 </h3>
+					<p>
+			   		•  3 layers & 25 gms
+						•  CE & FDA certified
+					</p>
+				</div>
+			</div>
+
+			<div class="bleu">
+				<img src="images/0329 basic.png">
+				<div class="desc">
+					<h3> Classic glasses / REF: IP-0329-V7 </h3>
+					<p>
+						•  Clear PC frame
+            •  Anti-fog
+            •  CE & FDA certified
+					</p>
+				</div>
+			</div>
+            <div class="bleu">
+				<img src="images/0332 basic.png">
+				<div class="desc">
+					<h3> Nitrile gloves / REF : IP-0332-V7 </h3>
+					<p>
+						•  Powder free
+            •  Single adult size
+            •  CE certified
+					</p>
+				</div>
+			</div>
+
+
+			<h4 id="ref2"> Standard </h4>
+
+			<div class="bleu">
+				<img src="images/0327 standard.png">
+				<div class="desc">
+					<h3> Medical face mask / REF : IP-0327-V7</h3>
+					<p>
+						•  Melt-blown polypropylene
+            •  3 layers
+            •  EN-14683 & CE Certified
+					</p>
+				</div>
+			</div>
+
+			<div class="bleu">
+				<img src="images/0330 standard.png">
+				<div class="desc">
+					<h3> Face shield / ref: IP-0330-V7 </h3>
+					<p>
+						•  PET face shield anti-fog
+            •  Soft foam & Woven strap
+            •  FDA certified
+					</p>
+				</div>
+			</div>
+
+			<div class="bleu">
+				<img src="images/0331 standard.png">
+				<div class="desc">
+					<h3> Silicone glasses / ref: IP-0331-V7</h3>
+					<p>
+					  •  Clear soft silicone mask anti fog
+            •  Adjustable strap
+            •  Clear PC lens & PC frame
+            •  CE & FDA certified
+
+					</p>
+				</div>
+			</div>
+
+        <h4 id="ref3"> Advanced</h4>
+
+             <div class="bleu">
+				<img src="images/0328 advanced.png">
+				<div class="desc">
+					<h3> N95/1860 face mask / ref: IP-0328-V7</h3>
+					<p>
+						•  5 layers
+            •  NIOSH Standard
+            •  CE & FDA certified
+
+					</p>
+				</div>
+			</div>
+
+			<div class="bleu">
+				<img src="images/0334 advanced.png">
+				<div class="desc">
+					<h3> Covid-19 rapid test kit / ref: IP-0334-V7 </h3>
+					<p>
+						•  Stable for 18 months
+            •  Results in 15 mins
+            •  CE certified
+
+					</p>
+				</div>
+			</div>
+
+			<div class="bleu">
+				<img src="images/0333 advanced.png">
+				<div class="desc">
+					<h3> Protection suit / ref: IP-0333-V7 </h3>
+					<p>
+						•  Medical non-wowen fabrics
+            •  S/M/L/XL sizes
+            •  CE & FDA certified
+					</p>
+				</div>
+			</div>
+
+      <h4 id="ref7"> CONTACT </h4>
+       <div class="container" >
+       <div style="text-align: center">
+		 	<p>
+			 ✉️ sales.wdb@gmail.com   📞   + 33.675.523.559
+
+
+			</p>
+		</div>
+		</div>
+         <div class="typeform-widget" data-url="https://vincenttavakelian.typeform.com/to/lCVSUQ" style="width: 100%; height: 430px;"></div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script> <div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;"> powered by <a href="https://admin.typeform.com/signup?utm_campaign=lCVSUQ&utm_source=typeform.com-14860575-Free&utm_medium=typeform&utm_content=typeform-embedded-poweredbytypeform&utm_term=EN" style="color: #999" target="_blank">Typeform</a> </div>
+
+	</body>
+	</html>
